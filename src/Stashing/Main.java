@@ -8,5 +8,9 @@ public class Main {
         BMW.engineCapac="V8";
         BMW.headlights="blue";
         BMW.regNo="tuzik";
+
+        //lets write our own code
+        System.out.println("Welcome to my car");
+        System.out.println("The radio is set to 80MHZ");
     }
 }
